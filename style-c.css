@@ -1,0 +1,165 @@
+html
+{
+    border:4px solid black;
+	background-color:#fffff;
+}
+
+﻿body
+{
+    color:black; 
+    margin:30px;
+}
+
+footer
+{
+	font-family:calibri;
+	background-color:#FFA07A;
+}
+
+tr
+{
+	height:35px;
+}
+
+td
+{
+	height:35px;
+}
+
+table.login
+{
+	border: 1px solid #b8b8b8;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px #888888;
+	font-size:20px;
+	font-family:tahoma;
+	background-color:#F5F5F5;
+}
+
+table.detail
+{
+	border: 1px solid #b8b8b8;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px #888888;
+	font-size:16px;
+	font-family:tahoma;
+	background-color:#F5F5F5;
+}
+
+table.lf1
+{
+	border: 1px solid #b8b8b8;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px #888888;
+	font-size:18px;
+	font-family:tahoma;
+	background-color:#F5F5F5;
+}
+table.lf2
+{	
+	font-size:16px;
+	font-family:tahoma;
+	background-color:#f7f5fe;
+}
+header
+{
+   font-size:20px;
+    border-image-width:auto;
+
+}
+
+a:visited {
+    color: green;
+    font-size:15px;
+	text-decoration:none;
+   }
+
+a:hover {
+    font-size:15px;
+    color: red;
+	text-decoration:none;
+}
+
+a:active {
+    font-size:15px;
+    color: blue;
+	text-decoration:none;
+}
+
+td.one {
+	font-family:tahoma;
+	font-size:18px;
+	background-color: #cbc5f5; color: black;
+}
+
+table.zo {
+	font-family:tahoma;
+	font-size:18px;
+	font-weight:bold;
+	background-color: #b0a7f1; color: black;
+}
+
+table.zero {
+	font-family:tahoma;
+	font-size:18px;
+    	background-color: lemonchiffon; color: black;
+}
+
+td.three {
+	font-family:tahoma;
+	font-size:18px;
+	font-weight:bold;
+    	background-color: #f7f5fe; color: black;
+}
+
+p{
+font-size:40px;
+}
+
+#header {
+    background-color:brown;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+	 	 
+#opt1 {
+    font-family:tahoma;
+    line-height:30px;
+    color:purple ;
+    background-color:#f0e68c;
+
+    height:600px;
+
+    width:105px;
+
+    float:left;
+
+    padding:5px;	      
+
+}
+
+
+
+#opt2
+
+{
+
+    height:600px;
+
+    width:800px;
+
+    float:left;
+
+    padding:5px;	
+
+
+
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
